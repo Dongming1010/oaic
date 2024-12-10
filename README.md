@@ -21,3 +21,5 @@ Install [sphinx](https://www.sphinx-doc.org/en/master/) with the
 
 To build the core documentation, simply run `make`.
 The resulting documentation is put in `docs/build/html`.
+
+Team notes for csc578:
