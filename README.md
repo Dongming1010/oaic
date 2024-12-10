@@ -32,10 +32,16 @@ You can access the xApp investigation document here:
 
 [xApp Investigation PDF](https://github.com/Dongming1010/oaic/blob/master/xApp_investigation.pdf)
 
+## 5. O-RAN and Spectrum Sharing Proposal
+
+[O-RAN and Spectrum Sharing Proposal PDF](https://github.com/Dongming1010/oaic/blob/master/O_RAN_and_Spectrum_sharing%20_proposal.pdf)
+
+## 6. O-RAN and Spectrum Sharing Midway Report
+
+[O-RAN and Spectrum Sharing Midway Report PDF](https://github.com/Dongming1010/oaic/blob/master/O_RAN_and_Spectrum_sharing_midway_report.pdf)
+
 ## Conclusion
 
 By following the official tutorial, reviewing our notes/adjustments, and utilizing the automation script, you should be able to set up and successfully reproduce the experiment environment.
 
 Feel free to reach out if you encounter any issues or have further questions.
-
-
