@@ -24,9 +24,18 @@ You can access the script and a detailed guide on its usage here:
 
 [Automation Script for Setup and Connection](https://glen-house-f94.notion.site/Manul-for-set-up-xapp-bs-ue-and-check-connection-using-script-13587ccc96b2800ebc6ef8b2e2a29c25)
 
+## 4. xApp Investigation
+
+For further investigation into the xApp and its functionalities, we documented detailed steps regarding its analysis and identified potential improvements. This document provides insights into the xApp's behavior and the issues we encountered.
+
+You can access the xApp investigation document here:
+
+[xApp Investigation PDF](https://github.com/Dongming1010/oaic/blob/master/xApp_investigation.pdf)
+
 ## Conclusion
 
 By following the official tutorial, reviewing our notes/adjustments, and utilizing the automation script, you should be able to set up and successfully reproduce the experiment environment.
 
 Feel free to reach out if you encounter any issues or have further questions.
+
 
